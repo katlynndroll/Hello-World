@@ -26,11 +26,15 @@ This is Katlynn's repository
 ## Files Used 
 
 - Datafiles/Links:
-  -  URL links to files - example here:
-  [Powerball Lottery Winning Numbers since 2010](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+  -  URL link:
+  [Helpful link I used to learn about syntax types]([(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)])
 
 ## How to Run Program
 
 ~~Please Ignore This Section of the Repository~~ 
    
+## Additional Information
 
+Checkout my files added!
+ -  Theres a photo of me and my dog.
+ -  A photo of farm scenery taken be me!
