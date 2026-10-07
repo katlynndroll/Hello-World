@@ -27,7 +27,7 @@ This is Katlynn's repository
 
 - Datafiles/Links:
   -  URL link:
-  [Helpful link I used to learn about syntax types]([(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)])
+  [Helpful link I used to learn about syntax types](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## How to Run Program
 
